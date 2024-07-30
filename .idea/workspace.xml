@@ -20,18 +20,18 @@
     <option name="RESET_MODE" value="MIXED" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "proevly"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;proevly&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/proevly/ImLearningSpring.git",
-    "accountId": "384b030c-ce4b-46b0-8984-6fa796e62f02"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/proevly/ImLearningSpring.git&quot;,
+    &quot;accountId&quot;: &quot;384b030c-ce4b-46b0-8984-6fa796e62f02&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -48,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Cemal/Desktop/Spring/dev-spring-boot/ImLearningSpring/02-spring-boot-spring-core",
+    "last_opened_file_path": "C:/Users/Cemal/Desktop/Spring/dev-spring-boot/ImLearningSpring/02-spring-boot-spring-core/01-constructor-injection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,6 +103,7 @@
       <workItem from="1719585142677" duration="42000" />
       <workItem from="1719585214807" duration="424000" />
       <workItem from="1722341635893" duration="97000" />
+      <workItem from="1722342473890" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <option name="closed" value="true" />
