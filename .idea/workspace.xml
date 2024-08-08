@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0bc4c2-3b13-4462-9637-b5957d3d0118" name="Changes" comment="deneme" />
+    <list default="true" id="dd0bc4c2-3b13-4462-9637-b5957d3d0118" name="Changes" comment="deneme">
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java/luve2code/learningSpring/springcoredemo/SpringcoredemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java/luve2code/learningSpring/springcoredemo/common/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java/luve2code/learningSpring/springcoredemo/common/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java/luve2code/learningSpring/springcoredemo/rest/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/test/java/luve2code/learningSpring/springcoredemo/SpringcoredemoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,19 +48,22 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2iVgm63FbaDYnI2uYrDv4Zv2jYd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Cemal/Desktop/Spring/dev-spring-boot/ImLearningSpring/02-spring-boot-spring-core/01-constructor-injection",
+    "last_opened_file_path": "C:/Users/Cemal/Desktop/Spring/dev-spring-boot/ImLearningSpring/02-spring-boot-spring-core/03-setter-injection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,6 +119,7 @@
       <workItem from="1719585214807" duration="424000" />
       <workItem from="1722341635893" duration="97000" />
       <workItem from="1722342473890" duration="44000" />
+      <workItem from="1723100906695" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <option name="closed" value="true" />
@@ -163,6 +179,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="deneme" />
     <MESSAGE value="s" />
     <option name="LAST_COMMIT_MESSAGE" value="s" />
